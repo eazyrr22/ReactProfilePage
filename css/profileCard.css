@@ -1,0 +1,22 @@
+.profile-card{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border-radius: px;
+}
+label{
+    font:bold;
+    font-size: 1em;
+}
+.description{
+    color: gray;
+
+}
+.avatar{
+    height: 5rem;
+    width: 5rem;
+}
