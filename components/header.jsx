@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function header(props) {
+export default function MainTitle(props) {
   return (
-    <div className='header'>My Profile Page</div>
+    <header className='header'><h1>My Profile Page</h1></header>
   )
 }
